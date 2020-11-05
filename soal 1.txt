@@ -1,0 +1,13 @@
+Soal 1
+
+ Deklarasi :
+ 	n=5
+C = n
+b = c
+a = b
+1 = a
+Algoritma
+a^2+b^2=c^2
+1*1+5*5=5*5
+1+25=25
+26=25
